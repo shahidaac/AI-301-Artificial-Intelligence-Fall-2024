@@ -1,1 +1,301 @@
+# AI-301: Artificial Intelligence  
+**Trimester:** Fall 2024  
+**Credits:** 4  
+**Level:** Upper Division Undergraduate  
+**Prerequisites:** Python Programming, Linear Algebra, Probability, Data Structures  
 
+---
+
+# Course Description
+
+AI-301 provides a comprehensive introduction to Artificial Intelligence, integrating theoretical foundations with hands-on tool building.  
+
+Students will master:
+
+- Search algorithms  
+- Machine Learning  
+- Deep Learning  
+- Reinforcement Learning  
+- AI Deployment & MLOps  
+- Ethical AI & Bias Auditing  
+
+The curriculum mirrors top-tier courses such as MIT 6.036, Stanford CS221/CS229, and Harvard CS50 AI, emphasizing project-based learning where students build deployable AI systems.
+
+---
+
+# Learning Outcomes
+
+Upon successful completion, students will be able to:
+
+1. Design and implement AI algorithms (Search, ML, DL, RL)  
+2. Build end-to-end AI tools (image classifiers, chatbots, predictors)  
+3. Deploy AI systems as scalable web services  
+4. Audit AI systems for bias and ethical risk  
+5. Communicate AI concepts through technical documentation and presentations  
+
+---
+
+# Textbooks & References
+
+## Core Textbooks
+
+- **Artificial Intelligence: A Modern Approach (4th ed.)** — Russell & Norvig  
+- **Deep Learning** — Goodfellow, Bengio, Courville  
+
+## Supplementary Texts
+
+- *Reinforcement Learning: An Introduction* — Sutton & Barto  
+- *Machine Learning Yearning* — Andrew Ng  
+- *Ethics of Artificial Intelligence and Robotics* — Stanford Encyclopedia  
+
+## Online Resources
+
+- MIT OpenCourseWare  
+- Stanford CS229  
+- Harvard CS50 AI  
+- PyTorch / TensorFlow Documentation  
+- Scikit-learn Documentation  
+- OpenAI Gym  
+- UCI ML Repository  
+- Kaggle  
+- Google Dataset Search  
+
+---
+
+# Grading Policy
+
+| Component | Weight |
+|------------|--------|
+| Weekly Labs (7) | 25% |
+| Midterm Project | 15% |
+| Capstone Project | 30% |
+| Midterm Exam | 15% |
+| Final Exam | 15% |
+
+---
+
+# Weekly Schedule
+
+## Week 1: AI Foundations & Problem Solving
+- Intelligent agents and PEAS framework  
+- BFS, DFS, A* search  
+- Ethics: Bias in routing systems  
+
+**Lab 1:** Implement BFS, DFS, A* (Grid World)
+
+---
+
+## Week 2: Machine Learning Fundamentals
+- Supervised vs. Unsupervised Learning  
+- Decision Trees, Naive Bayes  
+- Evaluation metrics  
+
+**Lab 2:** Build a Naive Bayes Spam Classifier
+
+---
+
+## Week 3: Deep Learning
+- Perceptrons & Backpropagation  
+- CNNs & Transfer Learning  
+- Ethics: Deepfakes  
+
+**Lab 3:** Train CNN on CIFAR-10
+
+---
+
+## Week 4: Reinforcement Learning
+- MDPs  
+- Q-Learning  
+- Deep Q Networks  
+
+**Lab 4:** Solve FrozenLake / CartPole
+
+---
+
+## Week 5: AI Tool Engineering & Deployment
+- MLOps lifecycle  
+- Flask APIs  
+- Docker containerization  
+- Cloud deployment  
+
+**Lab 5:** Deploy ML model as Flask API + Docker
+
+---
+
+## Week 6: Ethics & Future of AI
+- Bias sources and fairness metrics  
+- Explainable AI (SHAP, LIME)  
+- AGI Safety & Alignment  
+
+**Lab 6:** Bias Audit using AIF360
+
+---
+
+## Week 7: Midterm Exam
+- Theory + Coding  
+
+---
+
+## Weeks 8–13: Capstone Project
+
+| Week | Focus | Deliverable |
+|------|-------|------------|
+| 8 | Proposal | 1-page proposal |
+| 9 | Data | Clean dataset |
+| 10 | Model | Working prototype |
+| 11 | Deployment | API deployed |
+| 12 | Ethics | Bias audit report |
+| 13 | Polish | Demo + slides |
+
+---
+
+## Week 14: Final Exam + Capstone Demos
+
+- Final comprehensive exam  
+- 3-minute pitch + live demo  
+
+---
+
+# Capstone Project
+
+Students build a full AI tool including:
+
+- Data acquisition  
+- Model training  
+- Deployment  
+- Bias audit  
+- Technical documentation  
+
+### Example Project Options
+
+- Medical Diagnosis Assistant  
+- Game-Playing AI  
+- Financial Prediction Tool  
+- NLP Chatbot  
+
+---
+
+# Labs Overview
+
+| Lab | Topic |
+|-----|-------|
+| Lab 1 | Search Algorithms |
+| Lab 2 | Spam Classifier |
+| Lab 3 | CNN Image Classification |
+| Lab 4 | Reinforcement Learning |
+| Lab 5 | Deployment & Docker |
+| Lab 6 | Bias Audit |
+| Lab 7 | Capstone |
+
+---
+
+# Exams
+
+## Midterm
+- 2 hours  
+- MCQ + Short Answer + Coding  
+
+## Final
+- 3 hours  
+- Theory + Deployment + Ethics  
+
+---
+
+# Policies
+
+1. **Attendance:** Mandatory for labs/exams  
+2. **Late Work:** 10% penalty per day (max 3 days)  
+3. **Academic Integrity:** Zero tolerance for plagiarism  
+4. **Collaboration:** Labs collaborative, exams individual  
+5. **Tools:** Python, PyTorch, TensorFlow, Docker, AWS/GCP  
+
+---
+
+# Tools & Frameworks
+
+## Programming
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+
+## Machine Learning
+- Scikit-learn  
+- PyTorch  
+- TensorFlow  
+
+## Reinforcement Learning
+- OpenAI Gym  
+- Stable Baselines3  
+
+## Deployment
+- Flask  
+- Docker  
+- MLflow  
+
+## Ethics & Explainability
+- AIF360  
+- SHAP  
+- LIME  
+
+---
+
+# Datasets Used
+
+- Grid World (Custom)  
+- SMS Spam Collection (UCI)  
+- CIFAR-10  
+- FrozenLake / CartPole  
+- Iris Dataset  
+- Adult Census Income Dataset  
+
+---
+
+# Key Conferences & Journals
+
+- NeurIPS  
+- ICML  
+- ICLR  
+- AAAI  
+- IJCAI  
+- FAccT  
+- Journal of Artificial Intelligence Research  
+
+---
+
+# Instructor Information
+
+**Instructor:** [Your Name]  
+**Email:** [your.email]  
+**Office Hours:** Tue/Thu 2–4 PM  
+**TA:** [TA Name]  
+**Course Forum:** Discord / Slack  
+**Materials:** GitHub Repository | LMS  
+
+---
+
+# Course Philosophy
+
+This course integrates:
+
+- Visual storytelling  
+- Active learning  
+- Live coding  
+- Ethical analysis  
+- Real-world AI systems  
+
+Students finish the trimester having built, deployed, and audited real AI systems.
+
+---
+
+# Final Message
+
+The future of AI belongs to engineers who combine:
+
+- Technical depth  
+- Deployment skills  
+- Ethical responsibility  
+
+Build responsibly. Deploy thoughtfully. Innovate ethically.
+
+---
